@@ -1,2 +1,2 @@
-# solvers-for-diff-eq
-solvers for differential equations
+# Solvers for differential equations
+## These solvers are coded in MATLAB
